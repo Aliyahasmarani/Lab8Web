@@ -1,5 +1,13 @@
 # Lab8Web
 
+# Praktikum 8: PHP dan Database MySQL
+
+# INSTRUKSI PRAKTIKUM
+1. Persiapkan text editor misalnya VSCode.
+2. Buat folder baru dengan nama lab8_php_database pada docroot webserver
+(htdocs)
+3. Ikuti langkah-langkah praktikum yang akan dijelaskan berikutnya.
+
 ![image](https://github.com/Aliyahasmarani/Lab8Web/assets/115197672/dd56cce6-57b1-4a3e-862d-06f2088eb366)
 
 ![image](https://github.com/Aliyahasmarani/Lab8Web/assets/115197672/16c480d1-feb6-446f-ae31-da53bc945188)
